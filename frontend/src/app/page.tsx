@@ -145,7 +145,7 @@ export default function EdupathHomePage() {
       enquiryDate: "2026-10-21",
       followUpDate: "2026-10-24",
       status: "New",
-      source: "Edupath Online Lead",
+      source: "Website Form",
       notes: "Lead registered from Edupath consultation modal.",
     });
     setConsultSubmitted(true);
@@ -166,7 +166,7 @@ export default function EdupathHomePage() {
       enquiryDate: "2026-10-21",
       followUpDate: "2026-10-23",
       status: "New",
-      source: "Website Contact Form",
+      source: "Website Form",
       notes: contactForm.message,
     });
     setContactSubmitted(true);
